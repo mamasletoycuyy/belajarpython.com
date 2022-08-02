@@ -31,8 +31,7 @@ Untuk mencoba berbagai macam tipe data, silahkan coba script Python dibawah ini.
 print(True)
 
 #tipe data String
-print("Ayo belajar Python")
-print('Belajar Python Sangat Mudah')
+print("Hello World!")
 
 #tipe data Integer
 print(20)
